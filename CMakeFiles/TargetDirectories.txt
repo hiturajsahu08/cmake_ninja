@@ -1,0 +1,3 @@
+/home/hitu/Documents/Projects/cplusplus_make/cmake_ninja/CMakeFiles/rebuild_cache.dir
+/home/hitu/Documents/Projects/cplusplus_make/cmake_ninja/CMakeFiles/edit_cache.dir
+/home/hitu/Documents/Projects/cplusplus_make/cmake_ninja/CMakeFiles/Mazes.dir
